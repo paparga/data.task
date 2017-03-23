@@ -3,6 +3,7 @@
   "version": "3.0.0",
   "description": "A structure for representing asynchronous actions with automatic resource handling.",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "test": "make test"
   },
